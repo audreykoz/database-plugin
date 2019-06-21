@@ -1,0 +1,3 @@
+[submodule "database-plugin.wiki"]
+	path = database-plugin.wiki
+	url = https://github.com/archi-contribs/database-plugin.wiki.git
